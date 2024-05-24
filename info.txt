@@ -1,0 +1,7 @@
+To download pytorch:
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+conda install conda-forge::transformers
+conda install timm
+pip install supervision
+
+conda install notebook
